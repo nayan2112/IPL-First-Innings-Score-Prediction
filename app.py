@@ -13,7 +13,7 @@ app = Flask(__name__)
 def Home():
     return render_template('index.html')
 
-@app.route('/predict', methods=['POST'])
+@app.route('/predict', methods=['GET', 'POST'])
 def predict():
     temp_array = list()
 
