@@ -15,4 +15,4 @@ IPL First innings score predictor, a machine learning web app created with Flask
   * [Credits](#credits)
 
 ## Overview
-This is a flask web app which predicts the first innings score of Indian Premier League with the help of Rgeressor model. The dataset contains information about used cars is taken from   Kaggle listed on www.cardekho.com. The trained model takes a data of used cars as a input and predict the Price of the Car as a output.
+This is a flask web app which predicts the first innings score of Indian Premier League(IPL) with the help of Rgeressor model. The dataset is taken from https://github.com/codophobia/CricketScorePredictor credits to Shivam Mitra. It contains the score made on each ball of the matches played in IPL from 2008 to 2017.
