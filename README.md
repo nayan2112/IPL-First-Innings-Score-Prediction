@@ -64,12 +64,12 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/nayan2112/IPL-First-Innings-Score-Prediction/issues) here by including your search query and the expected result
 
 ## Future Scope
-* Use multiple Algorithms 
-* Optimize Flask app.py
-* Front-End 
+• Consider venue as one of the aspect while creating a model.
+• Add columns of the batsman who is playing at that moment.
+• Implement this problem statement using Deep Learning(ANN).
 
 ## Credits
 * Dataset: The dataset contains the score made on each ball of the matches played in IPL from 2008 to 2017.
