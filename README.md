@@ -1,5 +1,5 @@
 # IPL-First-Innings-Score-Prediction
-https://ipl-scores-prediction.herokuapp.com/
+### https://ipl-scores-prediction.herokuapp.com/<br>
 IPL First innings score predictor, a machine learning web app created with Flask on Heroku platform.
 
 ## Table of Content
